@@ -4,7 +4,7 @@
 
 I am returning to IT with current hands-on work across Linux, Windows/Active Directory, Python automation, AWS, Terraform, and Kubernetes. I am seeking junior and entry-level fully remote opportunities with international teams.
 
-**Certifications:** Associate of ISC2 — CISSP Examination Passed · AWS Certified Security – Specialty · AWS Certified Solutions Architect – Associate · CCNA · Security+
+**Certifications & designation:** Associate of ISC2 · AWS Certified Security – Specialty · AWS Certified Solutions Architect – Associate · CCNA · Security+
 
 [Portfolio](https://ozangirginwork-wq.github.io/) · [Resume](https://ozangirginwork-wq.github.io/Ozan-Girgin-Resume.pdf) · [Technical review guide](https://github.com/ozangirginwork-wq/ozangirginwork-wq.github.io/blob/main/REVIEW_GUIDE.md)
 
