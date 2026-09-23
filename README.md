@@ -15,6 +15,7 @@ I am returning to IT with current hands-on work across Linux, Windows/Active Dir
 | [Linux troubleshooting](https://github.com/ozangirginwork-wq/linux-it-support-troubleshooting-lab) | Diagnose SSH failures, restore access, and verify recovery |
 | [Windows Server & Active Directory](https://github.com/ozangirginwork-wq/windows-server-active-directory-lab) | Domain onboarding, GPO verification, and allowed/denied file access |
 | [Python diagnostics](https://github.com/ozangirginwork-wq/python-it-cloud-automation-lab) | System checks, structured reports, and regression tests |
+| [AWS security incident response](https://github.com/ozangirginwork-wq/aws-security-incident-response-lab) | CloudTrail investigation, IAM/VPC remediation, and tested detection logic |
 | [Terraform + CI](https://github.com/ozangirginwork-wq/terraform-cicd-pipeline) | AWS infrastructure as code, validation, and Checkov security scanning |
 | [AWS automated incident response](https://github.com/ozangirginwork-wq/aws-security-automated-incident-response) | Scoped remediation, safety gates, and independent state verification |
 | [Kubernetes troubleshooting](https://github.com/ozangirginwork-wq/secure-kubernetes-deployment-lab) | Hardened deployment, network controls, and disposable-cluster tests |
